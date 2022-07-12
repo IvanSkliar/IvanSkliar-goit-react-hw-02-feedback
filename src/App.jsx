@@ -1,6 +1,5 @@
 import { Component } from 'react';
-
-import Container from './components/Container/Conteiner';
+import Container from './components/Container/Container'
 import FeedbackOptions from './components/FeedbackOptions/FeedbackOptions';
 import Statistics from './components/Statistics/Statistics';
 import Section from './components/Section/Section';

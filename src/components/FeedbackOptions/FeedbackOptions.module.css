@@ -3,18 +3,20 @@
     padding: 10px 40px;
     cursor: pointer;
     outline: none;
-
+    font-style: oblique;
     font-family: inherit;
     font-size: inherit;
-
     border: none;
     border-radius: 5px;
-
+    background-color: rgb(229, 233, 6);
     transition: transform 250ms linear;
+    color: rgb(0, 0, 0);
+    
 }
+
 
 .button:hover,
 .button:focus {
-    background-color: #b7d4d3;
+    background-color: #8e9c8f;
     box-shadow: 1px 2px 2px 0 rgb(0 0 0 / 0.5);
 }
